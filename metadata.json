@@ -1,0 +1,8 @@
+{
+  "name": "EnvyControl Indicator",
+  "description": "Indicator for EnvyControl",
+  "uuid": "envycontrol-indicator@vieiraa.github.com",
+  "shell-version": [
+    "40", "41"
+  ]
+}
